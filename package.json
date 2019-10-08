@@ -10,9 +10,10 @@
   "author": "Carol Caires",
   "license": "ISC",
   "dependencies": {
+    "braces": "2.3.1",
     "express": "4.17.1",
-    "standard": "14.3.1",
-    "braces": "2.3.1"
+    "mongoose": "5.7.3",
+    "standard": "14.3.1"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
